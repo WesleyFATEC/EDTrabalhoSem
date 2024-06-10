@@ -1,0 +1,31 @@
+1;Sabonete;Limpeza e hidratação para a pele;3.50;10;1
+2;Perfume;Fragrância delicada e duradoura;50.00;15;1
+3;Shampoo;Para cabelos macios e sedosos;8.00;15;1
+4;Bomba Centrífuga;Para transferência de fluidos;500.00;5;2
+5;Esteira Transportadora;Para otimização de linhas de produção;2000.00;10;2
+6;Máquina de Solda;Automação para processos de soldagem;1500.00;10;2
+3;Sanduicheira;Prepara sanduíches quentes em instantes;20.00;10;3
+2;Micro;ondas;Aquece alimentos em poucos minutos;10;3
+1;Cafeteira Elétrica;Prepara café rapidamente;40.00;10;3
+1;Chocolate;Doce e saboroso;2.00;10;4
+2;Revista;Entretenimento para momentos de lazer;5.00;10;4
+3;Chiclete;Saboroso e refrescante;1.00;10;4
+1;Lanterna;Iluminação em situações de falta de energia;10.00;10;5
+2;Extintor de Incêndio;Para combate rápido de pequenos focos de incêndio;50.00;10;5
+3;Kit de Primeiros Socorros;Para situações de emergência médica;30.00;10;5
+1;Celular Smartphone;Comparação de recursos e funcionalidades;800.00;10;6
+2;Notebook;Para escolha cuidadosa de configurações;1000.00;10;6
+1;Vinho Tinto Premium;Para apreciadores exigentes;50.00;10;7
+2;Café Arábica Especial;Com sabor e aroma únicos;15.00;10;7
+1;Frutas Frescas;Variedade sazonal de frutas frescas;3.00;10;8
+2;Laticínios;Frescos e de alta qualidade;4.00;10;8
+1;Televisão LED;Com tecnologia de última geração;600.00;10;9
+2;Máquina de Lavar Roupa;Resistente e eficiente;400.00;10;9
+1;Roupas Descartáveis;Para uso único em situações específicas;5.00;10;10
+2;Produtos de Higiene Pessoal;Para uso individual e descarte;3.00;10;10
+1;Caminhão de Carga;Para transporte de grandes volumes;50000.00;10;11
+1;Ferro de Solda;Para reparos e soldagem de componentes eletrônicos;20.00;10;12
+1;Software de Gestão Empresarial;Para otimização de processos internos;5000.00;10;13
+1;Arroz;Grão básico na alimentação;2.00;10;14
+2;Açúcar;Ingrediente essencial na culinária;3.00;10;14
+1;Tecido de Algodão;Para confecção de roupas e tecidos;5.00;10;15
